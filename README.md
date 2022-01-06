@@ -15,7 +15,7 @@ LED 3つ
 ジャンパー線　6本
 
 # 環境
-__ubuntu 18.04 LTS__
+__ubuntu 20.04 LTS__
 
 # 動画
 [動画](https://youtu.be/dRgufOXc1_w)
