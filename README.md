@@ -43,4 +43,5 @@ echo 3 > /dev/jnkenmachine0
 ```
 0~2は順番にグー、チョキ、パーのLEDを点灯させることができ、3はすべてのLEDを消灯することができる。
 
-
+# ライセンス
+[GNU General Public License v3.0](https://github.com/umezawa0315/janken1/blob/master/LICENSE)
