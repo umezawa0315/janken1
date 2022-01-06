@@ -31,15 +31,15 @@ git clone https://github.com/umezawa0315/janken1.git
 ```
 cd janken1
 make
-sudo insmod jankenmachine.ko
-sudo chmod 666 /dev/jankenmachine0
+sudo insmod myled.ko
+sudo chmod 666 /dev/myled0
 ```
 上記のコマンドで実行の準備を終えたら、下記のコマンドでLEDを点灯・消灯することができる。
 ```
-echo 0 > /dev/jnkenmachine0   
-echo 1 > /dev/jnkenmachine0
-echo 2 > /dev/jnkenmachine0
-echo 3 > /dev/jnkenmachine0
+echo 0 > /dev/myled0   
+echo 1 > /dev/myled0 
+echo 2 > /dev/myled0 
+echo 3 > /dev/myled0 
 ```
 0~2は順番にグー、チョキ、パーのLEDを点灯させることができ、3はすべてのLEDを消灯することができる。
 
