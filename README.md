@@ -21,6 +21,8 @@ __ubuntu 20.04 LTS__
 
 <img width="411" alt="20220112-0556_c744b8febe7aa6388e6c8082e806e99b" src="https://user-images.githubusercontent.com/96018191/149020656-6ffb6681-681d-4f0d-9148-dae717e2dc2b.png">
 
+この回路では、三つのピンを使って三つのLEDを点滅させるもので、それぞれ25はグー、21はチョキ、20はパーにつながっています。
+
 # 動画
 [動画](https://youtu.be/dRgufOXc1_w)
 
