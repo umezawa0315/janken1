@@ -17,6 +17,10 @@ LED 3つ
 # 環境
 __ubuntu 20.04 LTS__
 
+# 回路
+
+<img width="411" alt="20220112-0556_c744b8febe7aa6388e6c8082e806e99b" src="https://user-images.githubusercontent.com/96018191/149020656-6ffb6681-681d-4f0d-9148-dae717e2dc2b.png">
+
 # 動画
 [動画](https://youtu.be/dRgufOXc1_w)
 
